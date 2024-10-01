@@ -1,0 +1,14 @@
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\bin\Debug\net8.0\Try Catch 03.exe
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\bin\Debug\net8.0\Try Catch 03.deps.json
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\bin\Debug\net8.0\Try Catch 03.runtimeconfig.json
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\bin\Debug\net8.0\Try Catch 03.dll
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\bin\Debug\net8.0\Try Catch 03.pdb
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\Try Catch 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\Try Catch 03.AssemblyInfoInputs.cache
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\Try Catch 03.AssemblyInfo.cs
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\Try Catch 03.csproj.CoreCompileInputs.cache
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\Try Catch 03.dll
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\refint\Try Catch 03.dll
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\Try Catch 03.pdb
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\Try Catch 03.genruntimeconfig.cache
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Try Catch 03\Try Catch 03\obj\Debug\net8.0\ref\Try Catch 03.dll

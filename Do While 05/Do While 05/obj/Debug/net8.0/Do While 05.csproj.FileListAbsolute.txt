@@ -1,0 +1,14 @@
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\bin\Debug\net8.0\Do While 05.exe
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\bin\Debug\net8.0\Do While 05.deps.json
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\bin\Debug\net8.0\Do While 05.runtimeconfig.json
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\bin\Debug\net8.0\Do While 05.dll
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\bin\Debug\net8.0\Do While 05.pdb
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\Do While 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\Do While 05.AssemblyInfoInputs.cache
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\Do While 05.AssemblyInfo.cs
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\Do While 05.csproj.CoreCompileInputs.cache
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\Do While 05.dll
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\refint\Do While 05.dll
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\Do While 05.pdb
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\Do While 05.genruntimeconfig.cache
+C:\Users\Ana Porsino\Desktop\BackEnd\Atividades1C#\Do While 05\Do While 05\obj\Debug\net8.0\ref\Do While 05.dll

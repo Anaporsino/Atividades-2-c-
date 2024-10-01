@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ana Porsino\\Desktop\\BackEnd\\Atividades1C#\\Vetor 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFE65A6-00CC-4F51-8C35-C4A8DB390992}|Vetor 01\\Vetor 01.csproj|c:\\users\\ana porsino\\desktop\\backend\\atividades1c#\\vetor 01\\vetor 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFE65A6-00CC-4F51-8C35-C4A8DB390992}|Vetor 01\\Vetor 01.csproj|solutionrelative:vetor 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ana Porsino\\Desktop\\BackEnd\\Atividades1C#\\Vetor 01\\Vetor 01\\Program.cs",
+              "RelativeDocumentMoniker": "Vetor 01\\Program.cs",
+              "ToolTip": "C:\\Users\\Ana Porsino\\Desktop\\BackEnd\\Atividades1C#\\Vetor 01\\Vetor 01\\Program.cs",
+              "RelativeToolTip": "Vetor 01\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:51:17.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
